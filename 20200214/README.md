@@ -2,4 +2,4 @@
 
 程式一開始的畫面會呈現這樣~~
 
-<div align=center><img width="500" height="450" src="https://github.com/chingi071/PyQt/blob/master/20200214/README_pix/Image%201.jpg"/></div>
+<img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/20200214/README_pix/Image%201.jpg"/></div>
