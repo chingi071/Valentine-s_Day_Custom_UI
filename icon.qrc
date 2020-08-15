@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>pix/home_pix.jpg</file>
+    <file>pix/001.jpg</file>
+    <file>pix/002.jpg</file>
+    <file>pix/003.jpg</file>
+    <file>pix/004.jpg</file>
+    <file>pix/home.png</file>
+    <file>pix/love.png</file>
+    <file>pix/next.png</file>
+    <file>pix/previous.png</file>    
+    <file>pix/heart.png</file>
+    <file>pix/close.png</file>
+    <file>pix/click.png</file>
+    <file>pix/start.png</file>
+    <file>pix/play.png</file>
+    <file>pix/num_1.png</file>
+    <file>pix/num_2.png</file>
+    <file>pix/num_3.png</file>
+    <file>pix/num_4.png</file>
+    <file>pix/num_5.png</file>
+    <file>pix/num_6.png</file>
+    <file>pix/num_7.png</file>
+    <file>pix/num_8.png</file>
+    <file>pix/num_9.png</file>
+    <file>pix/love_plot.png</file>
+    <file>pix/heart_plot.png</file>
+</qresource>
+</RCC>
