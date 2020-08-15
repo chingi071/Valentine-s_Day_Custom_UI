@@ -1,15 +1,19 @@
 # 客製化UI
 
 程式一開始的畫面會呈現這樣~~ 照片都是取自男星楊洋的照片，另外我有加入音樂，所以打開的同時也會循環播放音樂，歌曲是林宥嘉的少女。
+
 功能按鈕有Home, Love Start, Next, Previous, Heart, Play, Close，其中Home就是我們現在的主畫面。
 
 <img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/20200214/README_pix/Image%201.jpg"/></div>
 
+
 按下Love Start後，會跳至卡片的開始內容，按Next接續下一張，按Previous回到上一張。
 <img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/20200214/README_pix/Image%202.jpg"/></div>
 
+
 按下Heart，會呈現愛心圖片的畫面，按Click會是另一個愛心圖。
 <img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/20200214/README_pix/Image%203.jpg"/></div>
+
 
 按下Game，會呈現猜幸運數字的遊戲，按下Start後，即可開始遊戲
 <img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/20200214/README_pix/Image%204.jpg"/></div>
@@ -18,7 +22,6 @@
 
 # 程式架構
 遵循MVC模式，將程式分為三個部分: 模型（Model）、視圖（View）和控制器（Controller）
-
 1. 模型（Model）
    main.py - 所有的功能
   
