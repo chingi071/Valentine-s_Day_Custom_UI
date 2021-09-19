@@ -4,19 +4,19 @@
 
 功能按鈕有Home, Love Start, Next, Previous, Heart, Play, Close，其中Home就是我們現在的主畫面。
 
-<img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/20200214/README_pix/Image%201.jpg"/></div>
+<img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/README_pix/Image%201.jpg"/></div>
 
 
 按下Love Start後，會跳至卡片的開始內容，按Next接續下一張，按Previous回到上一張。
-<img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/20200214/README_pix/Image%202.jpg"/></div>
+<img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/README_pix/Image%202.jpg"/></div>
 
 
 按下Heart，會呈現愛心圖片的畫面，按Click會是另一個愛心圖。
-<img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/20200214/README_pix/Image%203.jpg"/></div>
+<img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/README_pix/Image%203.jpg"/></div>
 
 
 按下Game，會呈現猜幸運數字的遊戲，按下Start後，即可開始遊戲
-<img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/20200214/README_pix/Image%204.jpg"/></div>
+<img width="600" height="550" src="https://github.com/chingi071/PyQt/blob/master/README_pix/Image%204.jpg"/></div>
 
 按下Close，關閉程式。
 
